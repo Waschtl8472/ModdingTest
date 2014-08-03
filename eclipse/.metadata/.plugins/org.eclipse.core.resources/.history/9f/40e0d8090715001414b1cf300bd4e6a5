@@ -1,0 +1,5 @@
+package net.waschtl.moddingtest.client.gui;
+
+public class GuiConfig {
+
+}

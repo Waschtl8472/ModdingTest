@@ -1,0 +1,5 @@
+package net.waschtl.moddingtest.utility;
+
+public class LogHelper {
+
+}

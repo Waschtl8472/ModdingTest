@@ -1,0 +1,7 @@
+package net.waschtl.moddingtest.item;
+
+import net.minecraft.item.Item;
+
+public class ItemMT extends Item {
+	
+}

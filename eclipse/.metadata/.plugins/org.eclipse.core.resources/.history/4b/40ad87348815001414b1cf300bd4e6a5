@@ -1,0 +1,10 @@
+package net.waschtl.moddingtest.item;
+
+public class ItemMapleLeaf extends ItemMT
+{
+    public ItemMapleLeaf()
+    {
+        super();
+        this.setUnlocalizedName("mapleLeaf");
+    }
+}

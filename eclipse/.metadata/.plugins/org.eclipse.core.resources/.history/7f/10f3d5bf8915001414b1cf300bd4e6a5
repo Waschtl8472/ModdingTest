@@ -1,0 +1,10 @@
+package net.waschtl.moddingtest.item;
+
+public class RedstoneSchwert extends ItemMT
+{
+    public RedstoneSchwert()
+    {
+        super();
+        this.setUnlocalizedName("redstoneSchwert");
+    }
+}

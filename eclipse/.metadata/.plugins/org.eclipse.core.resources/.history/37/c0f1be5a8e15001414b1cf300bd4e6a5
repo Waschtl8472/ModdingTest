@@ -1,0 +1,15 @@
+package net.waschtl.moddingtest.init;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+import net.waschtl.moddingtest.item.ItemMT;
+import net.waschtl.moddingtest.item.RedstoneSchwert;
+
+public class ModItems {
+	
+	public static final ItemMT mapleLeaf = new RedstoneSchwert();
+	
+	public static void init(){
+		
+		GameRegistry.registerItem(mapleLeaf, "mapleLeaf");
+	}
+}

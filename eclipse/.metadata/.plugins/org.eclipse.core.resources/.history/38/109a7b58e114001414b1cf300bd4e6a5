@@ -1,0 +1,6 @@
+package net.waschtl.moddingtest.reference;
+
+public class Reference {
+	public static final String MOD_ID = "ModdingTest";
+	public static final String MOD_NAME = "Modding Test";
+}

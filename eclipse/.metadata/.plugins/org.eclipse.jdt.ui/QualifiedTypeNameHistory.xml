@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPreInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.EventHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPostInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Instance"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.proxy.CommonProxy"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.proxy.IProxy"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.configuration.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent.OnConfigChangedEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.IModGuiFactory"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.config.GuiConfig"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiScreen"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.handler.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Level"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLLog"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.utility.LogHelper"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.FMLClientHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.item.ItemMT"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.item.ItemMapleLeaf"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.init.ModItems"/>
+<fullyQualifiedTypeName name="net.waschtl.moddingtest.reference.Reference"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,8 @@
+package net.waschtl.moddingtest;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "ModdingTest", name="Modding Test", version="1.0")
+public class moddingtest {
+
+}

@@ -1,0 +1,31 @@
+package net.waschtl.moddingtest.configuration;
+
+import java.io.File;
+
+import net.minecraftforge.common.config.Configuration;
+
+public class ConfigurationHandler {
+	
+	public static void init(File configFile) {
+		
+		Configuration configuration = new Configuration(configFile);
+		boolean configValue = true;
+		try {
+			configuration.load();
+			
+			configValue = configuration.get(Configuration.CATEGORY_GENERAL, "configValue", true, "").getBoolean(true);
+		}
+		catch (Exception e){
+			
+		}
+		finally {
+			
+			
+			configuration.save();
+		}
+		
+		
+		System.out.println(configValue);
+		
+	}
+}

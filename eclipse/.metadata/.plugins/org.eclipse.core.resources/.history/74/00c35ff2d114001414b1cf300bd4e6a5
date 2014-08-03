@@ -1,0 +1,18 @@
+[
+{
+  "modid": "ModdingTest",
+  "name": "Modding Test",
+  "description": "Modding Test",
+  "version": "1.0",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Waschtl", "Tom"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+]
+}
